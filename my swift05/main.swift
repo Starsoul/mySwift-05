@@ -39,7 +39,8 @@ print("Hello, World!")
 
 //myset()
 //mydic()
-loop()
+//loop()
+switchtest()
 
 
 

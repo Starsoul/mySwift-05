@@ -35,7 +35,7 @@ func loop(){
     var rand = 0
     for i in 0..<51 {
         repeat{
-        rand = Int(arc4random_uniform(52))
+        rand = Int(arc4random_uniform(51))
         isRepeat = false
             for j in 0..<i {
                 if rand == poker[j] {
